@@ -1,0 +1,21 @@
+1	intrinsic_nue		1		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_intrinsic_nue_overlay_WCP_DetVar_LYDown_run3.root		              /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_LYDown.root		0		1	7.01e20		3
+2	nu_overlay		    1		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_nu_overlay_WCP_DetVar_LYDown_run3.root			                      /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_LYDown.root		0		2	6.42e20		30
+1	intrinsic_nue		2		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_intrinsic_nue_overlay_WCP_DetVar_LYRayleigh_run3.root		          /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_LYRayleigh.root	0		3	7.01e20		3
+2	nu_overlay		    2		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_nu_overlay_WCP_DetVar_LYRayleigh_run3.root			                  /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_LYRayleigh.root	0		4	6.42e20		30
+1	intrinsic_nue		3		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_intrinsic_nue_overlay_WCP_DetVar_Recomb2_run3.root		              /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_Recomb2.root	    0		5	7.01e20		3
+2	nu_overlay		    3		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_nu_overlay_WCP_DetVar_Recomb2_run3.root			                      /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_Recomb2.root    	0		6	6.42e20		30
+1	intrinsic_nue		4		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_intrinsic_nue_overlay_WCP_DetVar_SCE_run3.root		                  /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_SCE.root		    0		7	7.01e20		3
+2	nu_overlay		    4		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_nu_overlay_WCP_DetVar_SCE_run3.root				                      /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_SCE.root		    0		8	6.42e20		30
+1	intrinsic_nue		6		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_intrinsic_nue_overlay_WCP_DetVar_WireModThetaXZ_run3.root              /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_WMThetaXZ.root   	0		9	7.01e20		3
+2	nu_overlay		    6		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_nu_overlay_WCP_DetVar_WireModThetaXZ_run3.root		                  /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_WMThetaXZ.root  	0		10	6.42e20		30
+1	intrinsic_nue		7		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_intrinsic_nue_overlay_WCP_DetVar_WireModThetaYZ_run3.root   	          /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_WMThetaYZ.root 	0		11	7.01e20		3
+2	nu_overlay		    7		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_nu_overlay_WCP_DetVar_WireModThetaYZ_run3.root		                  /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_WMThetaYZ.root 	0		12	6.42e20		30
+1	intrinsic_nue		8		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_intrinsic_nue_overlay_WCP_DetVar_WireModX_run3.root	    	          /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_WMX.root		    0		13	7.01e20		3
+2	nu_overlay		    8		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_nu_overlay_WCP_DetVar_WireModX_run3.root		    	                  /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_WMX.root		    0		14	6.42e20		30
+1	intrinsic_nue		9		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_intrinsic_nue_overlay_WCP_DetVar_WireModYZ_run3.root		              /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_WMYZ.root		    0		15	7.01e20		3
+2	nu_overlay		    9		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_nu_overlay_WCP_DetVar_WireModYZ_run3.root		    	              /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_WMYZ.root		    0		16	6.42e20		30
+1	intrinsic_nue		10		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_intrinsic_nue_overlay_WCP_DetVar_LYAttenuation_run3.root	              /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_LYatt.root		0		17	7.01e20		3
+2	nu_overlay		    10		/mnt/e/DATA/run3/systs/DetVar_weight/WCPcheckout_prodgenie_bnb_nu_overlay_WCP_DetVar_LYAttenuation_run3.root			              /mnt/d/eLEE/tech_note/files/run3/vertex/detvar/cov_LYatt.root		0		18	6.42e20		30
+-1	end			-1		end														end						-1		-1	-1	-1
+#file	#type			#period		#filename													#outfile_name					#ext_pot	#file_no  #norm	#norm_period
+

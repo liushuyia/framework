@@ -1,0 +1,287 @@
+1	intrinsic_nue		1		/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root		/home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root		0		        2	0	2
+2	nu_overlay	    	1		/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root			    	/home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run2.root			        0		        5	0	2
+5	BNB			        1		/mnt/d/data/file/run1/data/checkout_data_bnb_run1_all.root					        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/run2_data_bnb.root						                    1.426e+20	    8	0	2
+3	EXTBNB			    1		/mnt/d/data/file/run1/data/checkout_data_extbnb_run1_PF.root					        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run2.root					            2.2235e+20	    11	0	2
+4	DIRT			    1		/mnt/d/data/file/run1/cv/checkout_prodgenie_dirt_overlay_run1_all.root		    	/home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run2.root			        0		        14	0	2
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+1   intrinsic_nue       5               /mnt/d/data/file/run5/cv/checkout_bnb_intrinsic_nue_overlay_run5_FIXED.root                                                  /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run5.root          0                   5       0       5
+2   nu_overlay          5               /mnt/d/data/file/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                   /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run5.root                     0                   12      0       5
+5   BNB                 5               /mnt/d/data/file/run5/data/checkout_bnb_data_run5.root                                                                       /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_run5_data_bnb.root                                     1.396e20            19      0       5
+3   EXTBNB              5               /mnt/d/data/file/run5/data/checkout_bnb_ext_run5.root                                                                        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run5.root                                  4.37137e+20         26      0       5
+4   DIRT                5               /mnt/d/data/file/run5/cv/checkout_dirt_overlay_run5.root                                                                     /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run5.root                       0                   33      0       5
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+1	intrinsic_nue		1		/mnt/e/RNN/run1/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1_PF.root		/home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root		0		        1	0	1
+1	intrinsic_nue		2		/mnt/e/RNN/run2/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2_PF.root		/home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root		0		        2	0	2
+1	intrinsic_nue		3		/mnt/e/RNN/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3_PF.root		/home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root		0		        3	0	3
+2	nu_overlay		    1		/mnt/e/RNN/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root			        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run1.root		        	0		        4	0	1
+2	nu_overlay		    2		/mnt/e/RNN/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root			        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run2.root		        	0		        5	0	2
+2	nu_overlay	    	3		/mnt/e/RNN/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root			        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run3.root		        	0		        6	0	3
+5	BNB			        1	    /mnt/e/RNN/run1/data/checkout_data_bnb_run1_PF.root					            /home/lsy/workspace/LEEana/configurations/hist_rootfiles/run1_data_bnb.root						                    1.432088e+20	7	0	1
+5	BNB			        2		/mnt/e/RNN/run2/data/checkout_data_bnb_run2_PF.root				            	/home/lsy/workspace/LEEana/configurations/hist_rootfiles/run2_data_bnb.root					                    	2.5960e+20	    8	0	2
+5	BNB			        3		/mnt/e/RNN/run3/data/checkout_data_bnb_run3_PF.root				            	/home/lsy/workspace/LEEana/configurations/hist_rootfiles/run3_data_bnb.root						                    2.48866e+20 	9	0	3
+3	EXTBNB			    1		/mnt/e/RNN/run1/data/checkout_data_extbnb_run1_PF.root	                    	/home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run1.root				            	2.21814e+20	    10	0	1
+3	EXTBNB			    2		/mnt/e/RNN/run2/data/checkout_data_extbnb_run2_PF.root		                    /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run2.root				            	6.25014e+20	    11	0	2
+3	EXTBNB			    3		/mnt/e/RNN/run3/data/checkout_data_extbnb_run3_PF.root		                    /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run3.root				            	7.4127e+20	    12	0	3
+4	DIRT			    1		/mnt/e/RNN/run1/cv/checkout_prodgenie_bnb_dirt_overlay_run1_PF.root		        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run1.root	        		0		        13	0	1
+4	DIRT			    2		/mnt/e/RNN/run2/cv/checkout_prodgenie_bnb_dirt_overlay_run2_PF.root			    /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run2.root		        	0		        14	0	2
+4	DIRT			    3		/mnt/e/RNN/run3/cv/checkout_prodgenie_bnb_dirt_overlay_run3_PF.root		        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run3.root		        	0		        15	0	3
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+
+1   intrinsic_nue       5               /mnt/d/data/file/run5/cv/checkout_bnb_intrinsic_nue_overlay_run5_FIXED.root                                                  /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run5.root          0                   5       0       5
+2   nu_overlay          5               /mnt/d/data/file/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                   /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run5.root                     0                   12      0       5
+5   BNB                 5               /mnt/d/data/file/run5/data/checkout_bnb_data_run5.root                                                                       /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_run5_data_bnb.root                                     1.396e20            19      0       5
+3   EXTBNB              5               /mnt/d/data/file/run5/data/checkout_bnb_ext_run5.root                                                                        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run5.root                                  4.37137e+20         26      0       5
+4   DIRT                5               /mnt/d/data/file/run5/cv/checkout_dirt_overlay_run5.root                                                                     /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run5.root                       0                   33      0       5
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+1   intrinsic_nue       42              /mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b_FIXED.root                                      /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b.root         0                   4       0       42
+1   intrinsic_nue       43              /mnt/d/data/file/run4/cv/checkout_bnb_intrinsic_nue_overlay_run4c_FIXED.root                                                /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4c.root         0                   6       0       43
+1   intrinsic_nue       44              /mnt/d/data/file/run4/cv/checkout_bnb_inrinsic_nue_overlay_run4d_NEW.root                                                 /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4d.root         0                   7       0       44
+
+2   nu_overlay          42              /mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                       /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4b.root                    0                   11      0       42
+2   nu_overlay          43              /mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4c.root                                                                 /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4c.root                    0                   13      0       43
+2   nu_overlay          44              /mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4d_NEW.root                                                             /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4d.root                    0                   14      0       44
+
+5   BNB                 42              /mnt/d/data/file/run4/data/checkout_bnb_data_run4b_bdtconverted_convertcved.root                                            /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_run4b_data_bnb.root                                    1.181e+20           18      0       42
+5   BNB                 43              /mnt/d/data/file/run4/data/checkout_bnb_data_run4c.root                                                                     /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_run4c_data_bnb.root                                    8.648e+19           20      0       43
+5   BNB                 44              /mnt/d/data/file/run4/data/checkout_bnb_data_run4d.root                                                                     /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_run4d_data_bnb.root                                    4.721e+19           21      0       44
+
+3   EXTBNB              42              /mnt/d/data/file/run4/data/checkout_bnb_ext_run4b_bdtconverted_convertcved.root                                             /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4b.root                                 3.474e+20           25      0       42
+3   EXTBNB              43              /mnt/d/data/file/run4/data/checkout_bnb_ext_run4c.root                                                                      /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4c.root                                 2.34943e+20         27      0       43
+3   EXTBNB              44              /mnt/d/data/file/run4/data/checkout_bnb_ext_run4d.root                                                                      /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4d.root                                 3.27532e+20         28      0       44
+
+4   DIRT                42              /mnt/d/data/file/run4/cv/checkout_prod_dirt_run4b_pruned_bdtconverted_convertcved.root                                      /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4b.root                      0                   32      0       42
+4   DIRT                43              /mnt/d/data/file/run4/cv/checkout_dirt_overlay_run4c.root                                                                   /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4c.root                      0                   34      0       43
+4   DIRT                44              /mnt/d/data/file/run4/cv/checkout_dirt_overlay_run4d.root                                                                   /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4d.root                      0                   35      0       44
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+
+
+
+
+1	intrinsic_nue		2		/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root		/home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root		0		        2	0	2
+2	nu_overlay	    	2		/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root			    	/home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run2.root			        0		        5	0	2
+5	BNB			        2		/mnt/d/data/file/run2/data/checkout_data_bnb_run2_all.root					        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/run2_data_bnb.root						                    2.5413e+20	    8	0	2
+3	EXTBNB			    2		/mnt/d/data/file/run2/data/checkout_data_extbnb_run2_PF.root					        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run2.root					            6.25014e+20	    11	0	2
+4	DIRT			    2		/mnt/d/data/file/run2/cv/checkout_prodgenie_dirt_overlay_run2_all.root		    	/home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run2.root			        0		        14	0	2
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+1	intrinsic_nue		3		/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root		/home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root		0		        3	0	3
+2	nu_overlay		    3		/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root			    	/home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run3.root			        0		        6	0	3
+5	BNB			        3		/mnt/d/data/file/run3/data/checkout_data_bnb_run3_all.root					        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/run3_data_bnb.root						                    2.40466e+20	    9	0	3
+3	EXTBNB			    3		/mnt/d/data/file/run3/data/checkout_data_extbnb_run3_PF.root					        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run3.root					            7.4127e+20	    12	0	3
+4	DIRT			    3		/mnt/d/data/file/run3/cv/checkout_prodgenie_dirt_overlay_run3_all.root		        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run3.root			        0		        15	0	3
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+
+
+
+1   intrinsic_nue       42              /mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b_FIXED.root                                      /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b.root         0                   4       0       42
+2   nu_overlay          42              /mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                       /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4b.root                    0                   11      0       42
+5   BNB                 42              /mnt/d/data/file/run4/data/checkout_bnb_data_run4b_bdtconverted_convertcved.root                                            /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_run4b_data_bnb.root                                    1.181e+20           18      0       42
+3   EXTBNB              42              /mnt/d/data/file/run4/data/checkout_bnb_ext_run4b_bdtconverted_convertcved.root                                             /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4b.root                                 3.474e+20           25      0       42
+4   DIRT                42              /mnt/d/data/file/run4/cv/checkout_prod_dirt_run4b_pruned_bdtconverted_convertcved.root                                      /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4b.root                      0                   32      0       42
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+1   intrinsic_nue       43              /mnt/d/data/file/run4/cv/checkout_bnb_intrinsic_nue_overlay_run4c_FIXED.root                                                /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4c.root         0                   6       0       43
+2   nu_overlay          43              /mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4c.root                                                                 /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4c.root                    0                   13      0       43
+5   BNB                 43              /mnt/d/data/file/run4/data/checkout_bnb_data_run4c.root                                                                     /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_run4c_data_bnb.root                                    8.648e+19           20      0       43
+3   EXTBNB              43              /mnt/d/data/file/run4/data/checkout_bnb_ext_run4c.root                                                                      /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4c.root                                 2.34943e+20         27      0       43
+4   DIRT                43              /mnt/d/data/file/run4/cv/checkout_dirt_overlay_run4c.root                                                                   /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4c.root                      0                   34      0       43
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+1   intrinsic_nue       44              /mnt/d/data/file/run4/cv/checkout_bnb_inrinsic_nue_overlay_run4d_NEW.root                                                 /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4d.root         0                   7       0       44
+2   nu_overlay          44              /mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4d_NEW.root                                                             /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4d.root                    0                   14      0       44
+5   BNB                 44              /mnt/d/data/file/run4/data/checkout_bnb_data_run4d.root                                                                     /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_run4d_data_bnb.root                                    4.721e+19           21      0       44
+3   EXTBNB              44              /mnt/d/data/file/run4/data/checkout_bnb_ext_run4d.root                                                                      /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4d.root                                 3.27532e+20         28      0       44
+4   DIRT                44              /mnt/d/data/file/run4/cv/checkout_dirt_overlay_run4d.root                                                                   /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4d.root                      0                   35      0       44
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+
+
+
+
+1	intrinsic_nue		1	        	/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root		                                        /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root	    	0	            	1	    0	    1
+1	intrinsic_nue		2	        	/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root	                                        	/nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root	    	0		            2	    0	    2
+1	intrinsic_nue		3	        	/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root	                                        	/nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root	    	0		            3	    0	    3
+1   intrinsic_nue       42              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b_FIXED.root                                      /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b.root         0                   4       0       42
+1   intrinsic_nue       43              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/cv/checkout_bnb_intrinsic_nue_overlay_run4c_FIXED.root                                                /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4c.root         0                   5       0       43
+1   intrinsic_nue       44              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/cv/checkout_bnb_inrinsic_nue_overlay_run4d_NEW.root                                                 /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4d.root         0                   6       0       44
+1   intrinsic_nue       5               /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_bnb_intrinsic_nue_overlay_run5_FIXED.root                                                  /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run5.root          0                   7       0       5
+
+2	nu_overlay		    1	        	/pnfs/uboone/persistent/users/uboonepro/surprise/run1_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_1.root		                                        	    	/nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run1.root		            	0		            8   	0	    1
+2	nu_overlay	    	2	        	/pnfs/uboone/persistent/users/uboonepro/surprise/run2_full_samples/wc_processed/BNB/checkout_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_2_v2.root		                                        	    	/nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run2.root			            0		            9	    0	    2
+2	nu_overlay		    3	        	/pnfs/uboone/persistent/users/uboonepro/surprise/run3_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_3.root		                                        	    	/nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run3.root			            0		            10	    0	    3
+2   nu_overlay          42              /pnfs/uboone/persistent/users/uboonepro/surprise/run4b_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4b_v10_04_07_09_BNB_nu_overlay_surprise_reco2_hist.root                       /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4b.root                    0                   11      0       42
+2   nu_overlay          43              /pnfs/uboone/persistent/users/uboonepro/surprise/run4c_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4c.root                                                                 /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4c.root                    0                   12      0       43
+2   nu_overlay          44              /pnfs/uboone/persistent/users/uboonepro/surprise/run4d_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4d.root                                                             /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4d.root                    0                   13      0       44
+2   nu_overlay          5               /pnfs/uboone/persistent/users/uboonepro/surprise/run5_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_5.root                                                                   /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run5.root                     0                   14      0       5
+
+5	BNB			        1	        	/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/data/checkout_data_bnb_run1_all.root				                                        	        /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/run1_data_bnb.root						                        1.42319e+20	        15  	0	    1
+5	BNB			        2	        	/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/data/checkout_data_bnb_run2_all.root					                                                /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/run2_data_bnb.root						                        2.5413e+20	        16	    0	    2
+5	BNB			        3	        	/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/data/checkout_data_bnb_run3_all.root					                                                /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/run3_data_bnb.root						                        2.40466e+20	        17	    0	    3
+5   BNB                 42              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/data/checkout_bnb_data_run4b_bdtconverted_convertcved.root                                            /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_run4b_data_bnb.root                                    1.181e+20           18      0       42
+5   BNB                 43              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/data/checkout_bnb_data_run4c.root                                                                     /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_run4c_data_bnb.root                                    8.648e+19           19      0       43
+5   BNB                 44              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/data/checkout_bnb_data_run4d.root                                                                     /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_run4d_data_bnb.root                                    4.721e+19           20      0       44
+5   BNB                 5               /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/data/checkout_bnb_data_run5.root                                                                       /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_run5_data_bnb.root                                     1.396e20            21      0       5
+
+3	EXTBNB			    1	        	/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/data/checkout_data_extbnb_run1_PF.root					                                                /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run1.root					                2.21814e+20	        22	    0	    1
+3	EXTBNB			    2	        	/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/data/checkout_data_extbnb_run2_PF.root					                                                /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run2.root					                6.25014e+20	        23	    0	    2
+3	EXTBNB			    3	        	/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/data/checkout_data_extbnb_run3_PF.root					                                                /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run3.root					                7.4127e+20	        24	    0	    3
+3   EXTBNB              42              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/data/checkout_bnb_ext_run4b_bdtconverted_convertcved.root                                             /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4b.root                                 3.474e+20           25      0       42
+3   EXTBNB              43              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/data/checkout_bnb_ext_run4c.root                                                                      /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4c.root                                 2.34943e+20         26      0       43
+3   EXTBNB              44              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/data/checkout_bnb_ext_run4d.root                                                                      /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4d.root                                 3.27532e+20         27      0       44
+3   EXTBNB              5               /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/data/checkout_bnb_ext_run5.root                                                                        /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run5.root                                  4.37137e+20         28      0       5
+
+4	DIRT			    1	        	/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_dirt_overlay_run1_all.root		                                                /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run1.root			            0	          	    29	    0	    1
+4	DIRT			    2	        	/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_dirt_overlay_run2_all.root		                                            	/nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run2.root			            0		            30	    0	    2
+4	DIRT			    3	        	/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_dirt_overlay_run3_all.root		                                                /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run3.root			            0		            31	    0	    3
+4   DIRT                42              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/cv/checkout_prod_dirt_run4b_pruned_bdtconverted_convertcved.root                                      /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4b.root                      0                   32      0       42
+4   DIRT                43              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/cv/checkout_dirt_overlay_run4c.root                                                                   /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4c.root                      0                   33      0       43
+4   DIRT                44              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/cv/checkout_dirt_overlay_run4d.root                                                                   /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4d.root                      0                   34      0       44
+4   DIRT                5               /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_dirt_overlay_run5.root                                                                     /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run5.root                       0                   35      0       5
+
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+
+1   intrinsic_nue       5               /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_bnb_intrinsic_nue_overlay_run5_FIXED.root                                                  /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run5.root          0                   5       0       5
+2   nu_overlay          5               /pnfs/uboone/persistent/users/uboonepro/surprise/run5_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_5.root                                                                   /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run5.root                     0                   12      0       5
+5   BNB                 5               /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/data/checkout_bnb_data_run5.root                                                                       /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_run5_data_bnb.root                                     1.396e20            19      0       5
+3   EXTBNB              5               /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/data/checkout_bnb_ext_run5.root                                                                        /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run5.root                                  4.37137e+20         26      0       5
+4   DIRT                5               /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_dirt_overlay_run5.root                                                                     /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run5.root                       0                   33      0       5
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+1	intrinsic_nue		3		/pnfs/uboone/persistent/users/jjo/processed_chekcsout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root		/nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root		0		        3	0	3
+2	nu_overlay		    3		/pnfs/uboone/persistent/users/uboonepro/surprise/run3_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_3.root			    	/nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run3.root			        0		        6	0	3
+5	BNB			        3		/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/data/checkout_data_bnb_run3_all.root					        /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/run3_data_bnb.root						                    2.40466e+20	    9	0	3
+3	EXTBNB			    3		/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/data/checkout_data_extbnb_run3_PF.root					        /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run3.root					            7.4127e+20	    12	0	3
+4	DIRT			    3		/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_dirt_overlay_run3_all.root		        /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run3.root			        0		        15	0	3
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+1	intrinsic_nue		2		/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root		/nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root		0		        2	0	2
+2	nu_overlay	    	2		/pnfs/uboone/persistent/users/uboonepro/surprise/run2_full_samples/wc_processed/BNB/checkout_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_2_v2.root			    	/nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run2.root			        0		        5	0	2
+5	BNB			        2		/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/data/checkout_data_bnb_run2_all.root					        /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/run2_data_bnb.root						                    2.5413e+20	    8	0	2
+3	EXTBNB			    2		/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/data/checkout_data_extbnb_run2_PF.root					        /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run2.root					            6.25014e+20	    11	0	2
+4	DIRT			    2		/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_dirt_overlay_run2_all.root		    	/nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run2.root			        0		        14	0	2
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+1	intrinsic_nue		1		/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root		/home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root		0	        	1	0	1
+2	nu_overlay		    1		/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root			    	/home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run1.root		        	0		        4	0	1
+5	BNB			        1		/mnt/d/data/file/run1/data/checkout_data_bnb_run1_all.root					        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/run1_data_bnb.root						                    1.42319e+20	    7	0	1
+3	EXTBNB			    1		/mnt/d/data/file/run1/data/checkout_data_extbnb_run1_PF.root					        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run1.root					            2.21814e+20	    10	0	1
+4	DIRT			    1		/mnt/d/data/file/run1/cv/checkout_prodgenie_dirt_overlay_run1_all.root		        /home/lsy/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run1.root			        0	          	13	0	1
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+1	intrinsic_nue		1		/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root		/nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root		0	        	1	0	1
+2	nu_overlay		    1		/pnfs/uboone/persistent/users/uboonepro/surprise/run1_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_1.root			    	/nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run1.root		        	0		        2	0	1
+5	BNB			        1		/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/data/checkout_data_bnb_run1_all.root					        /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/run1_data_bnb.root						                    1.42319e+20	    3	0	1
+3	EXTBNB			    1		/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/data/checkout_data_extbnb_run1_PF.root					        /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run1.root					            2.21814e+20	    4	0	1
+4	DIRT			    1		/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_dirt_overlay_run1_all.root		        /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run1.root			        0	          	5	0	1
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+
+1   intrinsic_nue       42              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b_FIXED.root                                      /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b.root         0                   4       0       42
+2   nu_overlay          42              /pnfs/uboone/persistent/users/uboonepro/surprise/run4b_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4b_v10_04_07_09_BNB_nu_overlay_surprise_reco2_hist.root                       /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4b.root                    0                   11      0       42
+5   BNB                 42              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/data/checkout_bnb_data_run4b_bdtconverted_convertcved.root                                            /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_run4b_data_bnb.root                                    1.181e+20           18      0       42
+3   EXTBNB              42              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/data/checkout_bnb_ext_run4b_bdtconverted_convertcved.root                                             /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4b.root                                 3.474e+20           25      0       42
+4   DIRT                42              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/cv/checkout_prod_dirt_run4b_pruned_bdtconverted_convertcved.root                                      /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4b.root                      0                   32      0       42
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+1   intrinsic_nue       42              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b_FIXED.root                                      /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b.root         0                   4       0       42
+1   intrinsic_nue       43              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/cv/checkout_bnb_intrinsic_nue_overlay_run4c_FIXED.root                                                /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4c.root         0                   6       0       43
+1   intrinsic_nue       44              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/cv/checkout_bnb_inrinsic_nue_overlay_run4d_NEW.root                                                 /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4d.root         0                   7       0       44
+
+2   nu_overlay          42              /pnfs/uboone/persistent/users/uboonepro/surprise/run4b_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4b_v10_04_07_09_BNB_nu_overlay_surprise_reco2_hist.root                       /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4b.root                    0                   11      0       42
+2   nu_overlay          43              /pnfs/uboone/persistent/users/uboonepro/surprise/run4c_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4c.root                                                                 /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4c.root                    0                   13      0       43
+2   nu_overlay          44              /pnfs/uboone/persistent/users/uboonepro/surprise/run4d_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4d.root                                                             /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4d.root                    0                   14      0       44
+
+5   BNB                 42              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/data/checkout_bnb_data_run4b_bdtconverted_convertcved.root                                            /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_run4b_data_bnb.root                                    1.181e+20           18      0       42
+5   BNB                 43              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/data/checkout_bnb_data_run4c.root                                                                     /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_run4c_data_bnb.root                                    8.648e+19           20      0       43
+5   BNB                 44              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/data/checkout_bnb_data_run4d.root                                                                     /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_run4d_data_bnb.root                                    4.721e+19           21      0       44
+
+3   EXTBNB              42              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/data/checkout_bnb_ext_run4b_bdtconverted_convertcved.root                                             /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4b.root                                 3.474e+20           25      0       42
+3   EXTBNB              43              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/data/checkout_bnb_ext_run4c.root                                                                      /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4c.root                                 2.34943e+20         27      0       43
+3   EXTBNB              44              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/data/checkout_bnb_ext_run4d.root                                                                      /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4d.root                                 3.27532e+20         28      0       44
+
+4   DIRT                42              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/cv/checkout_prod_dirt_run4b_pruned_bdtconverted_convertcved.root                                      /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4b.root                      0                   32      0       42
+4   DIRT                43              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/cv/checkout_dirt_overlay_run4c.root                                                                   /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4c.root                      0                   34      0       43
+4   DIRT                44              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/cv/checkout_dirt_overlay_run4d.root                                                                   /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4d.root                      0                   35      0       44
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+
+1   intrinsic_nue       43              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/cv/checkout_bnb_intrinsic_nue_overlay_run4c_FIXED.root                                                /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4c.root         0                   6       0       43
+2   nu_overlay          43              /pnfs/uboone/persistent/users/uboonepro/surprise/run4c_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4c.root                                                                 /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4c.root                    0                   13      0       43
+5   BNB                 43              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/data/checkout_bnb_data_run4c.root                                                                     /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_run4c_data_bnb.root                                    8.648e+19           20      0       43
+3   EXTBNB              43              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/data/checkout_bnb_ext_run4c.root                                                                      /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4c.root                                 2.34943e+20         27      0       43
+4   DIRT                43              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/cv/checkout_dirt_overlay_run4c.root                                                                   /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4c.root                      0                   34      0       43
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+1   intrinsic_nue       44              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/cv/checkout_bnb_inrinsic_nue_overlay_run4d_NEW.root                                                 /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4d.root         0                   7       0       44
+2   nu_overlay          44              /pnfs/uboone/persistent/users/uboonepro/surprise/run4d_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4d.root                                                             /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_bnb_nu_overlay_run4d.root                    0                   14      0       44
+5   BNB                 44              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/data/checkout_bnb_data_run4d.root                                                                     /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_run4d_data_bnb.root                                    4.721e+19           21      0       44
+3   EXTBNB              44              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/data/checkout_bnb_ext_run4d.root                                                                      /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_data_extbnb_run4d.root                                 3.27532e+20         28      0       44
+4   DIRT                44              /pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4/cv/checkout_dirt_overlay_run4d.root                                                                   /nashome/s/shuyiliu/workspace/LEEana/configurations/hist_rootfiles/checkout_prodgenie_dirt_overlay_run4d.root                      0                   35      0       44
+-1	end			-1		end												end										-1		-1	-1	-1
+#file	#type			#period		#filename											#outfile_name									#ext_pot	#file_no  #norm		#norm_period
+
+
+
+
+
+
+

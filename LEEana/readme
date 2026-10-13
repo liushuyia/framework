@@ -1,0 +1,97 @@
+Detailed steps for analysis:
+
+###### preparation ###### 
+
+filelist_bdt is a good summary of all files
+
+1. ./convert_bdt.pl
+   Calculate the new BDT scores
+   Remove events used in the training ...
+   output is stored in ./checkout_rootfiles_correct_bdt
+
+not needed if using most recent WCP to produce the samples
+
+##### CV files ##### 
+
+1. ./convert_cv.pl
+   filelist_cv as control
+   For CV rootfiles, elimate duplicated events
+   Also remove failed run/subrun, if the failed percentage is larger than 20% (default)
+   output is stored  ./processed_checkout_rootfiles
+   branches status are set to ZERO + required variables 
+
+
+
+2. For data, need to run the pot tool to get POTs
+./summarize_pot.pl 
+<-- input database files in pot_counting [from Haiwang]
+--> output pot_bnb.txt and pot_extbnbn.txt to be consumed by app pot_counting 
+./bin/pot_counting_mc #mc_file
+./bin/pot_counting #bnb_file                   --> get the POT for BNB ...
+./bin/pot_counting #bnb_file  #extbnb_file -m2 --> get the POT for EXTBNB ...
+change ext_POT in ./configurations/cv_input.txt
+
+3 ./convert_histo.pl
+  For CV rootfiles, store the histograms in ./hist_rootfiles ...
+  cv_input.txt: files, and external POT, etc. (reading breaks if "-1" [end line] shows up)
+    ATTENTION:  BNB data filetype has to be "5"
+  file_ch.txt: breakdown cuts, other cuts, etc for each file, not file each channel
+  cov_input.txt: channel, x-axis variable, range, etc
+  convert_checkout_hist needs to activiate branch in various trees before cuts.h or anything else can use it !!!! 
+  be careful LowE sample which only has <400 MeV events and the POT counting is only for lowEnu part. Need to double "add_cut" (+LowEnu) to account for this LowE sample.
+  currently (as of Nov 6) dirt sample CV use old GENIE tune results because it has a large stat.
+
+4. ./bin/merge_hist -r0 -l1  (form CV comparison with standard error propogation)
+   cv file is stored in merge.root ...
+   TLee need LEEx1 -l1 as input or modify TLee source code to enable LEE portion
+
+4#. plot_hist based off merge_hist + truth breakdown + total uncertainty + elegant plotting
+need to run step 3 with breakdown file_ch.txt
+Do not do this for mc_stat
+Be sure the channal name in cov_input.txt has a clean _ext_, _dirt_, _LEE_ sections. The other breakdown keywords correspond to add_cut names
+
+5. ./run_mc_stat.pl (for MC statistics)
+    output are stored inside mc_stat/
+for Bayesian procedure, better use fewer subchannel (no breakdown) otherwise may fail to do convolution.
+
+
+###### detector systematic uncertainties ######
+
+No need to run conver_cv.
+soft link from processed_checkout_rootfiles to original files
+6. ./merge_det.pl
+    Merge CV+DetVar into one for each of the 10 sources
+    output are stored inside ./hist_rootfiles/DetVar/
+    add new variables
+  add new variables in merge_xxx.cxx and master_cov_matrix.cxx and mcm_1.h
+
+7. ./run_det_sys.pl
+    Running the detector systematics with bootstrapping
+    output are stored inside ./hist_rootfiles/DetVar/
+One could disable some channels (low statistic) in det_cov_matrix.cxx
+10 min
+
+##### Xs and Flux uncertainties ######
+
+8 ./merge_weight.pl
+  Merge the CV + weight files into one for each of 17 types of weights 
+  output are stored inside ./processed_checkout_rootfiles/*/
+  20 CPU*hour?
+  add new variables in merge_xxx.cxx and master_cov_matrix.cxx and mcm_1.h
+
+9. ./run_xf_sys.pl
+  Running the xs and flux systematics with reweighting
+  output are stored inside ./hist_rootfiles/XsFlux/
+One could disable some channels (low statistic) in xf_cov_matrix.cxx
+
+
+
+#### plotting code ###
+
+./bin/merge_hist -r0  (rerun ...)
+
+./bin/read_TLee_v20
+
+./bin/plot_hist -r0 -l0 -c1 -e3 -sfile_collapsed_covariance_matrix.root
+
+

@@ -1,0 +1,3 @@
+Waf: Entering directory `/home/lsy/workspace/wcp-uboone-bdt/build'
+Building: 
+Waf: Leaving directory `/home/lsy/workspace/wcp-uboone-bdt/build'

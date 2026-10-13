@@ -1,0 +1,390 @@
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root		                                                 outFV
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root		                                                 nueCCinFV
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root		                                                 badmatch
+
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root		                                                 outFV
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root		                                                 nueCCinFV
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root		                                                 badmatch
+
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root		                                                 outFV
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root		                                                 nueCCinFV
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root		                                                 badmatch
+
+/mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b_FIXED.root                                               outFV
+/mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b_FIXED.root                                               nueCCinFV
+/mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b_FIXED.root                                               badmatch
+
+/mnt/d/data/file/run4/cv/checkout_bnb_intrinsic_nue_overlay_run4c_FIXED.root         outFV
+/mnt/d/data/file/run4/cv/checkout_bnb_intrinsic_nue_overlay_run4c_FIXED.root         nueCCinFV
+/mnt/d/data/file/run4/cv/checkout_bnb_intrinsic_nue_overlay_run4c_FIXED.root         badmatch
+
+
+/mnt/d/data/file/run4/cv/checkout_bnb_inrinsic_nue_overlay_run4d_FIXED.root            outFV
+/mnt/d/data/file/run4/cv/checkout_bnb_inrinsic_nue_overlay_run4d_FIXED.root            nueCCinFV
+/mnt/d/data/file/run4/cv/checkout_bnb_inrinsic_nue_overlay_run4d_FIXED.root            badmatch
+
+/mnt/d/data/file/run5/cv/checkout_bnb_intrinsic_nue_overlay_run5_FIXED.root                                                           outFV
+/mnt/d/data/file/run5/cv/checkout_bnb_intrinsic_nue_overlay_run5_FIXED.root                                                           nueCCinFV
+/mnt/d/data/file/run5/cv/checkout_bnb_intrinsic_nue_overlay_run5_FIXED.root                                                           badmatch
+
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root				                                                     nueCCinFV
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root				                                                     numuCCinFV
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root				                                                     NCinFV
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root				                                                     outFV
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root				                                                     CCpi0inFV
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root				                                                     NCpi0inFV
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root			                                                     	 badmatch
+
+/mnt/d/data/file/run1/cv/run1_event_pot_match.root				                                                     nueCCinFV
+/mnt/d/data/file/run1/cv/run1_event_pot_match.root				                                                     numuCCinFV
+/mnt/d/data/file/run1/cv/run1_event_pot_match.root				                                                     NCinFV
+/mnt/d/data/file/run1/cv/run1_event_pot_match.root				                                                     outFV
+/mnt/d/data/file/run1/cv/run1_event_pot_match.root				                                                     CCpi0inFV
+/mnt/d/data/file/run1/cv/run1_event_pot_match.root				                                                     NCpi0inFV
+/mnt/d/data/file/run1/cv/run1_event_pot_match.root			                                                     	 badmatch
+
+/mnt/d/data/file/run2/cv/run2_event_pot_match.root				                                                     nueCCinFV
+/mnt/d/data/file/run2/cv/run2_event_pot_match.root				                                                     numuCCinFV
+/mnt/d/data/file/run2/cv/run2_event_pot_match.root				                                                     NCinFV
+/mnt/d/data/file/run2/cv/run2_event_pot_match.root				                                                     outFV
+/mnt/d/data/file/run2/cv/run2_event_pot_match.root				                                                     CCpi0inFV
+/mnt/d/data/file/run2/cv/run2_event_pot_match.root				                                                     NCpi0inFV
+/mnt/d/data/file/run2/cv/run2_event_pot_match.root			                                                     	 badmatch
+
+/mnt/d/data/file/run3/cv/run3_event_pot_match.root				                                                     nueCCinFV
+/mnt/d/data/file/run3/cv/run3_event_pot_match.root				                                                     numuCCinFV
+/mnt/d/data/file/run3/cv/run3_event_pot_match.root				                                                     NCinFV
+/mnt/d/data/file/run3/cv/run3_event_pot_match.root				                                                     outFV
+/mnt/d/data/file/run3/cv/run3_event_pot_match.root				                                                     CCpi0inFV
+/mnt/d/data/file/run3/cv/run3_event_pot_match.root				                                                     NCpi0inFV
+/mnt/d/data/file/run3/cv/run3_event_pot_match.root			                                                     	 badmatch
+
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root				                                                     nueCCinFV
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root				                                                     numuCCinFV
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root				                                                     NCinFV
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root				                                                     outFV
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root				                                                     CCpi0inFV
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root				                                                     NCpi0inFV
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root			                                                     	 badmatch
+
+/mnt/d/data/run1/new/checkout_nuoverlay_bnb_run1_scaled_sub_sample.root             nueCCinFV
+/mnt/d/data/run1/new/checkout_nuoverlay_bnb_run1_scaled_sub_sample.root             numuCCinFV
+/mnt/d/data/run1/new/checkout_nuoverlay_bnb_run1_scaled_sub_sample.root             NCinFV
+/mnt/d/data/run1/new/checkout_nuoverlay_bnb_run1_scaled_sub_sample.root             outFV
+/mnt/d/data/run1/new/checkout_nuoverlay_bnb_run1_scaled_sub_sample.root             CCpi0inFV
+/mnt/d/data/run1/new/checkout_nuoverlay_bnb_run1_scaled_sub_sample.root             NCpi0inFV
+/mnt/d/data/run1/new/checkout_nuoverlay_bnb_run1_scaled_sub_sample.root             badmatch
+
+/mnt/d/data/file/run1/cv/checkout_nuoverlay_bnb_run1_sce_unscaled_full_dataset.root				                                                     nueCCinFV
+/mnt/d/data/file/run1/cv/checkout_nuoverlay_bnb_run1_sce_unscaled_full_dataset.root				                                                     numuCCinFV
+/mnt/d/data/file/run1/cv/checkout_nuoverlay_bnb_run1_sce_unscaled_full_dataset.root				                                                     NCinFV
+/mnt/d/data/file/run1/cv/checkout_nuoverlay_bnb_run1_sce_unscaled_full_dataset.root				                                                     outFV
+/mnt/d/data/file/run1/cv/checkout_nuoverlay_bnb_run1_sce_unscaled_full_dataset.root				                                                     CCpi0inFV
+/mnt/d/data/file/run1/cv/checkout_nuoverlay_bnb_run1_sce_unscaled_full_dataset.root				                                                     NCpi0inFV
+/mnt/d/data/file/run1/cv/checkout_nuoverlay_bnb_run1_sce_unscaled_full_dataset.root			                                                     	 badmatch
+
+/mnt/d/data/file/run1/cv/checkout_nuoverlay_bnb_run1_sce_scaled_full_dataset.root				                                                     nueCCinFV
+/mnt/d/data/file/run1/cv/checkout_nuoverlay_bnb_run1_sce_scaled_full_dataset.root				                                                     numuCCinFV
+/mnt/d/data/file/run1/cv/checkout_nuoverlay_bnb_run1_sce_scaled_full_dataset.root				                                                     NCinFV
+/mnt/d/data/file/run1/cv/checkout_nuoverlay_bnb_run1_sce_scaled_full_dataset.root				                                                     outFV
+/mnt/d/data/file/run1/cv/checkout_nuoverlay_bnb_run1_sce_scaled_full_dataset.root				                                                     CCpi0inFV
+/mnt/d/data/file/run1/cv/checkout_nuoverlay_bnb_run1_sce_scaled_full_dataset.root				                                                     NCpi0inFV
+/mnt/d/data/file/run1/cv/checkout_nuoverlay_bnb_run1_sce_scaled_full_dataset.root			                                                     	 badmatch
+
+/mnt/d/data/test_SCE/run1_nu_overlay_bnb_unscaled_sub_sample.root             nueCCinFV
+/mnt/d/data/test_SCE/run1_nu_overlay_bnb_unscaled_sub_sample.root             numuCCinFV
+/mnt/d/data/test_SCE/run1_nu_overlay_bnb_unscaled_sub_sample.root             NCinFV
+/mnt/d/data/test_SCE/run1_nu_overlay_bnb_unscaled_sub_sample.root             outFV
+/mnt/d/data/test_SCE/run1_nu_overlay_bnb_unscaled_sub_sample.root             CCpi0inFV
+/mnt/d/data/test_SCE/run1_nu_overlay_bnb_unscaled_sub_sample.root             NCpi0inFV
+/mnt/d/data/test_SCE/run1_nu_overlay_bnb_unscaled_sub_sample.root             badmatch
+
+
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root				                                                     nueCCinFV
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root				                                                     numuCCinFV
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root				                                                     NCinFV
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root				                                                     outFV
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root				                                                     CCpi0inFV
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root				                                                     NCpi0inFV
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root				                                                     badmatch
+
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root				                                                     nueCCinFV
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root				                                                     numuCCinFV
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root				                                                     NCinFV
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root				                                                     outFV
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root				                                                     CCpi0inFV
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root				                                                     NCpi0inFV
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root				                                                     badmatch
+
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root				                                                     nueCCinFV
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root				                                                     numuCCinFV
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root				                                                     NCinFV
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root				                                                     outFV
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root				                                                     CCpi0inFV
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root				                                                     NCpi0inFV
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root			                                                       	 badmatch
+
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root				                                                     nueCCinFV
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root				                                                     numuCCinFV
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root				                                                     NCinFV
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root				                                                     outFV
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root				                                                     CCpi0inFV
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root				                                                     NCpi0inFV
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root			                                                       	 badmatch
+
+/mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                                nueCCinFV
+/mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                                numuCCinFV
+/mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                                NCinFV
+/mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                                outFV
+/mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                                CCpi0inFV
+/mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                                NCpi0inFV
+/mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                                badmatch
+
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4c.root                          nueCCinFV
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4c.root                          numuCCinFV
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4c.root                          NCinFV
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4c.root                          outFV
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4c.root                          CCpi0inFV
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4c.root                          NCpi0inFV
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4c.root                          badmatch
+
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4d_NEW.root                        nueCCinFV
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4d_NEW.root                        numuCCinFV
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4d_NEW.root                        NCinFV
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4d_NEW.root                        outFV
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4d_NEW.root                        CCpi0inFV
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4d_NEW.root                        NCpi0inFV
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4d_NEW.root                        badmatch
+
+/mnt/d/data/file/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                            nueCCinFV
+/mnt/d/data/file/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                            numuCCinFV
+/mnt/d/data/file/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                            NCinFV
+/mnt/d/data/file/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                            outFV
+/mnt/d/data/file/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                            CCpi0inFV
+/mnt/d/data/file/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                            NCpi0inFV
+/mnt/d/data/file/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                            badmatch
+
+/mnt/d/data/file/run1/data/checkout_data_extbnb_run1_PF.root				                                                             all
+/mnt/d/data/file/run2/data/checkout_data_extbnb_run2_PF.root					                                                         all
+/mnt/d/data/file/run3/data/checkout_data_extbnb_run3_PF.root					                                                         all
+/mnt/d/data/file/run4/data/checkout_bnb_ext_run4b_bdtconverted_convertcved.root                                                      all
+/mnt/d/data/file/run4/data/checkout_bnb_ext_run4c.root                               all
+/mnt/d/data/file/run4/data/checkout_bnb_ext_run4d.root                                 all
+/mnt/d/data/file/run5/data/checkout_bnb_ext_run5.root                                                                                 all
+
+/mnt/d/data/file/run1/cv/checkout_prodgenie_dirt_overlay_run1_all.root			                                                     all
+/mnt/d/data/file/run2/cv/checkout_prodgenie_dirt_overlay_run2_all.root			                                                     all
+/mnt/d/data/file/run3/cv/checkout_prodgenie_dirt_overlay_run3_all.root			                                                     all
+/mnt/d/data/file/run4/cv/checkout_prod_dirt_run4b_pruned_bdtconverted_convertcved.root                                               all
+/mnt/d/data/file/run4/cv/checkout_dirt_overlay_run4c.root                            all
+/mnt/d/data/file/run4/cv/checkout_dirt_overlay_run4d.root                              all
+/mnt/d/data/file/run5/cv/checkout_dirt_overlay_run5.root                                                                              all
+
+/mnt/d/data/file/run1/data/checkout_data_bnb_run1_all.root					                                                         all
+/mnt/d/data/file/run2/data/checkout_data_bnb_run2_all.root					                                                         all
+/mnt/d/data/file/run3/data/checkout_data_bnb_run3_all.root					                                                         all
+/mnt/d/data/file/run4/data/checkout_bnb_data_run4b_bdtconverted_convertcved.root                                                     all
+/mnt/d/data/file/run4/data/checkout_bnb_data_run4c.root                              all
+/mnt/d/data/file/run4/data/checkout_bnb_data_run4d.root                                all 
+/mnt/d/data/file/run5/data/checkout_bnb_data_run5.root                     all      
+
+end												end
+#file												#cut
+
+
+
+
+
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root		                                                 outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root		                                                 nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root		                                                 badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root		                                                 outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root		                                                 nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root		                                                 badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root		                                                 outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root		                                                 nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root		                                                 badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b_FIXED.root                                               outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b_FIXED.root                                               nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b_FIXED.root                                               badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/cv/checkout_bnb_intrinsic_nue_overlay_run4c_FIXED.root         outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/cv/checkout_bnb_intrinsic_nue_overlay_run4c_FIXED.root         nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/cv/checkout_bnb_intrinsic_nue_overlay_run4c_FIXED.root         badmatch
+
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/cv/checkout_bnb_inrinsic_nue_overlay_run4d_FIXED.root            outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/cv/checkout_bnb_inrinsic_nue_overlay_run4d_FIXED.root            nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/cv/checkout_bnb_inrinsic_nue_overlay_run4d_FIXED.root            badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_bnb_intrinsic_nue_overlay_run5_FIXED.root                                                           outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_bnb_intrinsic_nue_overlay_run5_FIXED.root                                                           nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_bnb_intrinsic_nue_overlay_run5_FIXED.root                                                           badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root				                                                     nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root				                                                     numuCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root				                                                     NCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root				                                                     outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root				                                                     CCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root				                                                     NCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root			                                                     	 badmatch
+
+/pnfs/uboone/persistent/users/uboonepro/surprise/run1_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_1.root				                                                     nueCCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run1_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_1.root				                                                     numuCCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run1_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_1.root				                                                     NCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run1_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_1.root				                                                     outFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run1_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_1.root				                                                     CCpi0inFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run1_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_1.root				                                                     NCpi0inFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run1_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_1.root			                                                     	 badmatch
+
+/pnfs/uboone/persistent/users/uboonepro/surprise/run2_full_samples/wc_processed/BNB/checkout_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_2_v2.root				                                                     nueCCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run2_full_samples/wc_processed/BNB/checkout_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_2_v2.root				                                                     numuCCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run2_full_samples/wc_processed/BNB/checkout_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_2_v2.root				                                                     NCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run2_full_samples/wc_processed/BNB/checkout_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_2_v2.root				                                                     outFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run2_full_samples/wc_processed/BNB/checkout_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_2_v2.root				                                                     CCpi0inFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run2_full_samples/wc_processed/BNB/checkout_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_2_v2.root				                                                     NCpi0inFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run2_full_samples/wc_processed/BNB/checkout_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_2_v2.root			                                                     	 badmatch
+
+/pnfs/uboone/persistent/users/uboonepro/surprise/run3_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_3.root				                                                     nueCCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run3_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_3.root				                                                     numuCCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run3_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_3.root				                                                     NCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run3_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_3.root				                                                     outFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run3_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_3.root				                                                     CCpi0inFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run3_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_3.root				                                                     NCpi0inFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run3_full_samples/wc_processed/BNB/checkout_wc_train_MCC9.10_Run123_v10_04_07_20_BNB_nu_overlay_surprise_reco2_hist_3.root			                                                     	 badmatch
+
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4b_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4b_v10_04_07_09_BNB_nu_overlay_surprise_reco2_hist.root				                                                     nueCCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4b_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4b_v10_04_07_09_BNB_nu_overlay_surprise_reco2_hist.root				                                                     numuCCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4b_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4b_v10_04_07_09_BNB_nu_overlay_surprise_reco2_hist.root				                                                     NCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4b_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4b_v10_04_07_09_BNB_nu_overlay_surprise_reco2_hist.root				                                                     outFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4b_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4b_v10_04_07_09_BNB_nu_overlay_surprise_reco2_hist.root				                                                     CCpi0inFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4b_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4b_v10_04_07_09_BNB_nu_overlay_surprise_reco2_hist.root				                                                     NCpi0inFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4b_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4b_v10_04_07_09_BNB_nu_overlay_surprise_reco2_hist.root			                                                     	 badmatch
+
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4c_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4c.root				                                                     nueCCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4c_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4c.root				                                                     numuCCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4c_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4c.root				                                                     NCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4c_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4c.root				                                                     outFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4c_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4c.root				                                                     CCpi0inFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4c_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4c.root				                                                     NCpi0inFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4c_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4c.root			                                                     	 badmatch
+
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4d_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4d.root				                                                     nueCCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4d_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4d.root				                                                     numuCCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4d_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4d.root				                                                     NCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4d_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4d.root				                                                     outFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4d_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4d.root				                                                     CCpi0inFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4d_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4d.root				                                                     NCpi0inFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run4d_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_4d.root			                                                     	 badmatch
+
+/pnfs/uboone/persistent/users/uboonepro/surprise/run5_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_5.root				                                                     nueCCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run5_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_5.root				                                                     numuCCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run5_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_5.root				                                                     NCinFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run5_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_5.root				                                                     outFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run5_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_5.root				                                                     CCpi0inFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run5_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_5.root				                                                     NCpi0inFV
+/pnfs/uboone/persistent/users/uboonepro/surprise/run5_full_samples/wc_processed/BNB/checkout_MCC9.10_Run4a4c4d5_v10_04_07_13_BNB_nu_overlay_surprise_reco2_hist_5.root			                                                     	 badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root				                                                     nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root				                                                     numuCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root				                                                     NCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root				                                                     outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root				                                                     CCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root				                                                     NCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1_PF.root			                                                     	 badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root				                                                     nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root				                                                     numuCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root				                                                     NCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root				                                                     outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root				                                                     CCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root				                                                     NCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root				                                                     badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root				                                                     nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root				                                                     numuCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root				                                                     NCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root				                                                     outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root				                                                     CCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root				                                                     NCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2_PF.root				                                                     badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root				                                                     nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root				                                                     numuCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root				                                                     NCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root				                                                     outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root				                                                     CCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root				                                                     NCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root			                                                       	 badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root				                                                     nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root				                                                     numuCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root				                                                     NCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root				                                                     outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root				                                                     CCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root				                                                     NCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3_PF.root			                                                       	 badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                                nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                                numuCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                                NCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                                outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                                CCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                                NCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root                                badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/cv/checkout_bnb_nu_overlay_run4c.root                          nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/cv/checkout_bnb_nu_overlay_run4c.root                          numuCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/cv/checkout_bnb_nu_overlay_run4c.root                          NCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/cv/checkout_bnb_nu_overlay_run4c.root                          outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/cv/checkout_bnb_nu_overlay_run4c.root                          CCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/cv/checkout_bnb_nu_overlay_run4c.root                          NCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/cv/checkout_bnb_nu_overlay_run4c.root                          badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/cv/checkout_bnb_nu_overlay_run4d_NEW.root                        nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/cv/checkout_bnb_nu_overlay_run4d_NEW.root                        numuCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/cv/checkout_bnb_nu_overlay_run4d_NEW.root                        NCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/cv/checkout_bnb_nu_overlay_run4d_NEW.root                        outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/cv/checkout_bnb_nu_overlay_run4d_NEW.root                        CCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/cv/checkout_bnb_nu_overlay_run4d_NEW.root                        NCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/cv/checkout_bnb_nu_overlay_run4d_NEW.root                        badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                            nueCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                            numuCCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                            NCinFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                            outFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                            CCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                            NCpi0inFV
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_bnb_nu_overlay_run5.root                                                                            badmatch
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/data/checkout_data_extbnb_run1_PF.root				                                                             all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/data/checkout_data_extbnb_run2_PF.root					                                                         all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/data/checkout_data_extbnb_run3_PF.root					                                                         all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/data/checkout_bnb_ext_run4b_bdtconverted_convertcved.root                                                      all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/data/checkout_bnb_ext_run4c.root                               all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/data/checkout_bnb_ext_run4d.root                                 all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/data/checkout_bnb_ext_run5.root                                                                                 all
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/cv/checkout_prodgenie_dirt_overlay_run1_all.root			                                                     all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/cv/checkout_prodgenie_dirt_overlay_run2_all.root			                                                     all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/cv/checkout_prodgenie_dirt_overlay_run3_all.root			                                                     all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/cv/checkout_prod_dirt_run4b_pruned_bdtconverted_convertcved.root                                               all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/cv/checkout_dirt_overlay_run4c.root                            all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/cv/checkout_dirt_overlay_run4d.root                              all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/cv/checkout_dirt_overlay_run5.root                                                                              all
+
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run1/data/checkout_data_bnb_run1_all.root					                                                         all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run2/data/checkout_data_bnb_run2_all.root					                                                         all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run3/data/checkout_data_bnb_run3_all.root					                                                         all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4b/data/checkout_bnb_data_run4b_bdtconverted_convertcved.root                                                     all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4c/data/checkout_bnb_data_run4c.root                              all
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run4d/data/checkout_bnb_data_run4d.root                                all 
+/pnfs/uboone/persistent/users/jjo/processed_chekcout_rootfiles/bnb/run5/data/checkout_bnb_data_run5.root                     all      
+
+end												end
+#file												#cut
+

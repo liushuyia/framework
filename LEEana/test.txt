@@ -1,0 +1,141 @@
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root
+[NUE/ROOTINO REWEIGHT]
+  input              = /mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root
+  filetype            = 2
+  period              = 3
+  is_SURPRISE         = 0
+  is_nue_overlay      = 0
+  is_nu_overlay       = 1
+  is_run4a            = 0
+  is_run1             = 0
+  is_run2             = 0
+  is_run3             = 1
+  is_run4b            = 0
+  is_run4c            = 0
+  is_run4d            = 0
+  is_run5             = 0
+  use_nue_reweight    = 0
+  use_rootino         = 0
+[NUE/ROOTINO REWEIGHT]
+  input              = /mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root
+  filetype            = 1
+  period              = 3
+  is_SURPRISE         = 0
+  is_nue_overlay      = 1
+  is_nu_overlay       = 0
+  is_run4a            = 0
+  is_run1             = 0
+  is_run2             = 0
+  is_run3             = 1
+  is_run4b            = 0
+  is_run4c            = 0
+  is_run4d            = 0
+  is_run5             = 0
+  use_nue_reweight    = 1
+  use_rootino         = 0
+
+====================================================
+[POT DEBUG]
+ current input POT = 8.84158e+22
+ external POT      = 0
+ ROOTino ALL RUNS  = 0
+ ROOTino target POT = 8.84158e+22
+====================================================
+
+Total entries: 149273
+[NUE FLUX] file POT (pot_tor875) = 8.84158e+22
+
+====================================================
+[POT DEBUG]
+ current input POT = 7.04498e+20
+ external POT      = 0
+ ROOTino ALL RUNS  = 0
+ ROOTino target POT = 7.04498e+20
+====================================================
+
+Total entries: 561522
+/mnt/d/data/file/run3/data/checkout_data_bnb_run3_all.root
+/mnt/d/data/file/run3/data/checkout_data_extbnb_run3_PF.root
+[NUE/ROOTINO REWEIGHT]
+  input              = /mnt/d/data/file/run3/data/checkout_data_extbnb_run3_PF.root
+  filetype            = 3
+  period              = 3
+  is_SURPRISE         = 0
+  is_nue_overlay      = 0
+  is_nu_overlay       = 0
+  is_run4a            = 0
+  is_run1             = 0
+  is_run2             = 0
+  is_run3             = 1
+  is_run4b            = 0
+  is_run4c            = 0
+  is_run4d            = 0
+  is_run5             = 0
+  use_nue_reweight    = 0
+  use_rootino         = 0
+[NUE/ROOTINO REWEIGHT]
+  input              = /mnt/d/data/file/run3/data/checkout_data_bnb_run3_all.root
+  filetype            = 5
+  period              = 3
+  is_SURPRISE         = 0
+  is_nue_overlay      = 0
+  is_nu_overlay       = 0
+  is_run4a            = 0
+  is_run1             = 0
+  is_run2             = 0
+  is_run3             = 1
+  is_run4b            = 0
+  is_run4c            = 0
+  is_run4d            = 0
+  is_run5             = 0
+  use_nue_reweight    = 0
+  use_rootino         = 0
+
+====================================================
+[POT DEBUG]
+ current input POT = 7.4127e+20
+ external POT      = 7.4127e+20
+ ROOTino ALL RUNS  = 0
+ ROOTino target POT = 7.4127e+20
+====================================================
+
+Total entries: 2097328
+
+====================================================
+[POT DEBUG]
+ current input POT = 2.40466e+20
+ external POT      = 2.40466e+20
+ ROOTino ALL RUNS  = 0
+ ROOTino target POT = 2.40466e+20
+====================================================
+
+Total entries: 900334
+/mnt/d/data/file/run3/cv/checkout_prodgenie_dirt_overlay_run3_all.root
+[NUE/ROOTINO REWEIGHT]
+  input              = /mnt/d/data/file/run3/cv/checkout_prodgenie_dirt_overlay_run3_all.root
+  filetype            = 4
+  period              = 3
+  is_SURPRISE         = 0
+  is_nue_overlay      = 0
+  is_nu_overlay       = 0
+  is_run4a            = 0
+  is_run1             = 0
+  is_run2             = 0
+  is_run3             = 1
+  is_run4b            = 0
+  is_run4c            = 0
+  is_run4d            = 0
+  is_run5             = 0
+  use_nue_reweight    = 0
+  use_rootino         = 0
+
+====================================================
+[POT DEBUG]
+ current input POT = 1.07222e+21
+ external POT      = 0
+ ROOTino ALL RUNS  = 0
+ ROOTino target POT = 1.07222e+21
+====================================================
+
+Total entries: 348864

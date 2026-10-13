@@ -1,0 +1,4 @@
+1. in the previous directory    ./run_xs.pl
+2. in the current directory     ./copy.pl
+3. root -l convert_wiener.C
+4. ../bin/wiener_example wiener.root output.root 2 0.5 (2 means 2nd derivative matrix; 0.5 means #signal in each bin normalized by #signal^0.5)

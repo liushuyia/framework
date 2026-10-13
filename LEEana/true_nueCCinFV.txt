@@ -1,0 +1,152 @@
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root
+/mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b_FIXED.root
+/mnt/d/data/file/run4/cv/checkout_bnb_intrinsic_nue_overlay_run4c_FIXED.root
+/mnt/d/data/file/run4/cv/checkout_bnb_inrinsic_nue_overlay_run4d_NEW.root
+/mnt/d/data/file/run5/cv/checkout_bnb_intrinsic_nue_overlay_run5_FIXED.root
+
+/mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root
+/mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root
+/mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root
+/mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/cv/checkout_bnb_inrinsic_nue_overlay_run4d_NEW.root filetype = 1 period = 44 is_run4a = 0 use_reweight = 1
+Total POT: 1.41787e+23 external POT: 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root filetype = 1 period = 3 is_run4a = 0 use_reweight = 1
+Total entries: 236677
+Total POT: 8.84158e+22 external POT: 0
+Total entries: 149273
+[NUE FLUX] file POT (pot_tor875) = 1.41787e+23
+[NUE REWEIGHT]input = /mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root filetype = 1 period = 2 is_run4a = 0 use_reweight = 1
+[NUE FLUX] file POT (pot_tor875) = 8.84158e+22
+Total POT: 1.24584e+23 external POT: 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/cv/checkout_bnb_intrinsic_nue_overlay_run4c_FIXED.root filetype = 1 period = 43 is_run4a = 0 use_reweight = 1
+Total POT: 7.1385e+22 external POT: 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root filetype = 1 period = 1 is_run4a = 0 use_reweight = 1
+[NUE REWEIGHT]input = /mnt/d/data/file/run2/cv/checkout_prodgenie_bnb_nu_overlay_run2.root filetype = 2 period = 2 is_run4a = 0 use_reweight = 0
+Total entries: 119649
+Total entries: 209095
+[NUE FLUX] file POT (pot_tor875) = 1.24584e+23
+Total POT: 3.99791e+22 external POT: 0
+Total entries: 68203
+[NUE FLUX] file POT (pot_tor875) = 7.1385e+22
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b_FIXED.root filetype = 1 period = 42 is_run4a = 0 use_reweight = 1
+[NUE FLUX] file POT (pot_tor875) = 3.99791e+22
+Total POT: 1.15058e+23 external POT: 0
+Total entries: 196454
+Total POT: 9.12846e+20 external POT: 0
+Total entries: 728329
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root filetype = 2 period = 42 is_run4a = 0 use_reweight = 0
+[NUE FLUX] file POT (pot_tor875) = 1.15058e+23
+Total POT: 7.5487e+20 external POT: 0
+Total entries: 608090
+[NUE REWEIGHT]input = /mnt/d/data/file/run1/cv/checkout_prodgenie_bnb_nu_overlay_run1.root filetype = 2 period = 1 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run5/cv/checkout_bnb_intrinsic_nue_overlay_run5_FIXED.root filetype = 1 period = 5 is_run4a = 0 use_reweight = 1
+Total POT: 7.2559e+20 external POT: 0
+Total entries: 581941
+Total POT: 1.60714e+23 external POT: 0
+Total entries: 275213
+[NUE REWEIGHT]input = /mnt/d/data/file/run3/cv/checkout_prodgenie_bnb_nu_overlay_run3.root filetype = 2 period = 3 is_run4a = 0 use_reweight = 0
+[NUE FLUX] file POT (pot_tor875) = 1.60714e+23
+Total POT: 7.04498e+20 external POT: 0
+Total entries: 561522
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4c.root
+/mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4d_NEW.root
+/mnt/d/data/file/run5/cv/checkout_bnb_nu_overlay_run5.root
+
+/mnt/d/data/file/run1/data/checkout_data_bnb_run1_all.root
+/mnt/d/data/file/run2/data/checkout_data_bnb_run2_all.root
+/mnt/d/data/file/run3/data/checkout_data_bnb_run3_all.root
+/mnt/d/data/file/run4/data/checkout_bnb_data_run4b_bdtconverted_convertcved.root
+/mnt/d/data/file/run4/data/checkout_bnb_data_run4c.root
+/mnt/d/data/file/run4/data/checkout_bnb_data_run4d.root
+/mnt/d/data/file/run5/data/checkout_bnb_data_run5.root
+
+/mnt/d/data/file/run1/data/checkout_data_extbnb_run1_PF.root
+/mnt/d/data/file/run2/data/checkout_data_extbnb_run2_PF.root
+/mnt/d/data/file/run3/data/checkout_data_extbnb_run3_PF.root
+/mnt/d/data/file/run4/data/checkout_bnb_ext_run4b_bdtconverted_convertcved.root
+/mnt/d/data/file/run4/data/checkout_bnb_ext_run4c.root
+/mnt/d/data/file/run4/data/checkout_bnb_ext_run4d.root
+/mnt/d/data/file/run5/data/checkout_bnb_ext_run5.root
+
+/mnt/d/data/file/run1/cv/checkout_prodgenie_dirt_overlay_run1_all.root
+/mnt/d/data/file/run2/cv/checkout_prodgenie_dirt_overlay_run2_all.root
+/mnt/d/data/file/run3/cv/checkout_prodgenie_dirt_overlay_run3_all.root
+/mnt/d/data/file/run4/cv/checkout_prod_dirt_run4b_pruned_bdtconverted_convertcved.root
+[NUE REWEIGHT]input = /mnt/d/data/file/run2/data/checkout_data_bnb_run2_all.root filetype = 5 period = 2 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run3/data/checkout_data_bnb_run3_all.root filetype = 5 period = 3 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run1/data/checkout_data_bnb_run1_all.root filetype = 5 period = 1 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/data/checkout_bnb_data_run4b_bdtconverted_convertcved.root filetype = 5 period = 42 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4d_NEW.root filetype = 2 period = 44 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/data/checkout_bnb_data_run4d.root filetype = 5 period = 44 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/data/checkout_bnb_data_run4c.root filetype = 5 period = 43 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/cv/checkout_bnb_nu_overlay_run4c.root filetype = 2 period = 43 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run5/data/checkout_bnb_data_run5.root filetype = 5 period = 5 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run5/cv/checkout_bnb_nu_overlay_run5.root filetype = 2 period = 5 is_run4a = 0 use_reweight = 0
+Total POT: 4.71128e+20 external POT: 0
+Total POT: 8.60918e+20 external POT: 0
+Total POT: 4.721e+19 external POT: 4.721e+19
+Total entries: 379770
+Total POT: 1.42319e+20 external POT: 1.42319e+20
+Total entries: 175813
+Total entries: 545083
+Total entries: 695419
+Total POT: 2.5413e+20 external POT: 2.5413e+20
+Total POT: 1.181e+20 external POT: 1.181e+20
+Total entries: 975911
+Total entries: 455376
+Total POT: 9.44401e+20 external POT: 0
+Total entries: 760266
+Total POT: 8.648e+19 external POT: 8.648e+19
+Total entries: 323350
+Total POT: 1.396e+20 external POT: 1.396e+20
+Total entries: 558549
+Total POT: 2.40466e+20 external POT: 2.40466e+20
+Total entries: 900334
+[NUE REWEIGHT]input = /mnt/d/data/file/run2/cv/checkout_prodgenie_dirt_overlay_run2_all.root filetype = 4 period = 2 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run1/cv/checkout_prodgenie_dirt_overlay_run1_all.root filetype = 4 period = 1 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run3/cv/checkout_prodgenie_dirt_overlay_run3_all.root filetype = 4 period = 3 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run1/data/checkout_data_extbnb_run1_PF.root filetype = 3 period = 1 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run3/data/checkout_data_extbnb_run3_PF.root filetype = 3 period = 3 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run2/data/checkout_data_extbnb_run2_PF.root filetype = 3 period = 2 is_run4a = 0 use_reweight = 0
+Total POT: 7.3448e+20 external POT: 0
+Total POT: 1.01926e+21 external POT: 0
+Total entries: 239271
+Total POT: 1.07222e+21 external POT: 0
+Total entries: 333571
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/data/checkout_bnb_ext_run4b_bdtconverted_convertcved.root filetype = 3 period = 42 is_run4a = 0 use_reweight = 0
+Total entries: 348864
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/cv/checkout_prod_dirt_run4b_pruned_bdtconverted_convertcved.root filetype = 4 period = 42 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/data/checkout_bnb_ext_run4d.root filetype = 3 period = 44 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/data/checkout_bnb_ext_run4c.root filetype = 3 period = 43 is_run4a = 0 use_reweight = 0
+Total POT: 2.92514e+20 external POT: 0
+Total entries: 95142
+Total POT: 2.21814e+20 external POT: 2.21814e+20
+Total entries: 633290
+Total POT: 3.474e+20 external POT: 3.474e+20
+Total POT: 2.34943e+20 external POT: 2.34943e+20
+Total POT: 3.27532e+20 external POT: 3.27532e+20
+Total entries: 1013231
+Total entries: 649155
+Total entries: 892746
+[NUE REWEIGHT]input = /mnt/d/data/file/run5/data/checkout_bnb_ext_run5.root filetype = 3 period = 5 is_run4a = 0 use_reweight = 0
+Total POT: 7.4127e+20 external POT: 7.4127e+20
+Total entries: 2097328
+Total POT: 4.37137e+20 external POT: 4.37137e+20
+Total entries: 1274476
+Total POT: 6.25014e+20 external POT: 6.25014e+20
+Total entries: 1861173
+/mnt/d/data/file/run4/cv/checkout_dirt_overlay_run4c.root
+/mnt/d/data/file/run4/cv/checkout_dirt_overlay_run4d.root
+/mnt/d/data/file/run5/cv/checkout_dirt_overlay_run5.root
+
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/cv/checkout_dirt_overlay_run4c.root filetype = 4 period = 43 is_run4a = 0 use_reweight = 0
+[NUE REWEIGHT]input = /mnt/d/data/file/run4/cv/checkout_dirt_overlay_run4d.root filetype = 4 period = 44 is_run4a = 0 use_reweight = 0
+Total POT: 1.81064e+20 external POT: 0
+Total POT: 3.52728e+20 external POT: 0
+Total entries: 58941
+Total entries: 114923
+[NUE REWEIGHT]input = /mnt/d/data/file/run5/cv/checkout_dirt_overlay_run5.root filetype = 4 period = 5 is_run4a = 0 use_reweight = 0
+Total POT: 3.54816e+20 external POT: 0
+Total entries: 116231
